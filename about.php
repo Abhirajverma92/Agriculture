@@ -91,6 +91,18 @@ html {
       </div>
     </div>
   </div>
+  <div class="column">
+    <div class="card">
+      <img src="Images/image.jpeg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Abhiraj Verma</h2>
+        <p class="title">Student</p>
+        <p><i>Department of Computer Science & Engineering, Asansol Engineering College, Asansol West Bengal</i></p>
+        <p>Email: <Strong>abhiraj11aeccse@gmail.com </Strong></p>
+        
+      </div>
+    </div>
+  </div>
   
  
     </div>
